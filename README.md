@@ -5,6 +5,8 @@ Legajo: 85070/9
 
 tp3 Tecno: Historia del diagrama de flujo
 
+Basado en el juego "Detroit: Become Human"
+
 Revolución Androide
 
 En el año 2038, los humanos crearon unas máquinas a las que llamaron androides: 
