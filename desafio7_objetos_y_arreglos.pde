@@ -1,6 +1,9 @@
 //Desafío: programar una clase que tenga un comportamiento autónomo 
 //(es decir, que mute sin interacción: movimiento, color, sprite, etc).
 
+
+//Muñecos de nieve andando
+
 int j = 5; //cantidad de muñecos
 Snowman[] s = new Snowman[j];
 
